@@ -46,3 +46,8 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 2. MLSS Summer Schools: http://mlss.cc/
 3. Site for Interesting Algorithmic CS, Probability and Discrete Mathematics problems: https://www.algomuse.net/archive
 4. Google India AI Summer School: https://sites.google.com/view/aisummerschool2020
+5. Econometrics Books: http://www.econometricsbooks.com/
+
+## Softwares and Libraries/Frameworks
+
+1. Deep Graph Library: https://www.dgl.ai/
