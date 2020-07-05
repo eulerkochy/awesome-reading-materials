@@ -5,6 +5,9 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 
 1. JavaScript: The Definitive Guide O'Reilly
 2. JavaScript: The Good parts
+3. Steven Shreve: Stoachastic Calculus for Finance Volumes 1 & 2
+4. JD Hamilton: Time Series Analysis
+5. Simo Sarrka: Bayesian Filtering and Smoothing
 
 ## Papers
 
@@ -21,6 +24,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 1. Beginner Reinforcement Learning Tutorial Notebook: https://github.com/eemlcommunity/PracticalSessions2020/blob/master/rl/EEML2020_RL_Tutorial.ipynb
 2. Neural Differential Equations: https://github.com/rtqichen/torchdiffeq
 3. Awesome List to build Computer Systems and softwares from scratch: https://github.com/danistefanovic/build-your-own-x
+4. Neural Tangent Kernel: https://github.com/google/neural-tangents
 
 ## Courses
 
