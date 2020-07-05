@@ -75,6 +75,8 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 13. Mathematical Foundations of Neuroscience: https://blog.piekniewski.info/2018/09/03/mathematical-foundations-of-neuroscience/
 14. Bayesian Neural Networks Need Not Concentrate: https://jacobbuckman.com/2020-01-22-bayesian-neural-networks-need-not-concentrate/
 15. Google AI: DeepDream: https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html
+16. Real, protected and long mode in Assembly: https://www.codeproject.com/Articles/45788/The-Real-Protected-Long-mode-assembly-tutorial-for
+17. Intel Assembly Manual guide: https://www.codeproject.com/Articles/1273844/The-Intel-Assembly-Manual-3
 
 ## Repositories
 
@@ -87,6 +89,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 7. Introduction to Flask using Test Driven Development: https://github.com/mjhea0/flaskr-tdd
 8. Reinforcement Learning for Algorithmic Trading: https://github.com/tensortrade-org/tensortrade
 9. Deep Learning Papers Reading Roadmap: https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+10. Lucid Framework for Neural Network Interpretability: https://github.com/tensorflow/lucid
 
 ## Courses
 
@@ -107,6 +110,14 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 15. UC Berkeley Deep Reinforcement Learning: http://rail.eecs.berkeley.edu/deeprlcourse/
 16. Stanford Computing with Physical Objects: Algorithms for Shape and Motion: http://graphics.stanford.edu/courses/cs164-09-spring/
 17. UC Berkeley Deep Unsupervised Learning: https://sites.google.com/view/berkeley-cs294-158-sp19/home
+18. Stanford Decison Making under uncertainty: https://web.stanford.edu/class/aa228/cgi-bin/wp/
+19. Princeton Theoretical Foundations of Deep Learning: https://www.cs.princeton.edu/courses/archive/fall18/cos597G/
+20. New York University Inference and Representation: https://inf16nyu.github.io/home/
+21. MIT and Metacademy Roadmap: Probabilistic Graphical Models: https://metacademy.org/roadmaps/rgrosse/mit_6_438
+22. CMU Computational Complexity Theory: http://www.cs.cmu.edu/~odonnell/complexity/
+23. CMU Convex Optimization: http://www.cs.cmu.edu/~aarti/Class/10725_Fall17/
+24. CMU Advanced Machine Learning Theory and Methods: http://www.cs.cmu.edu/~pradeepr/716/
+25. Stanford Deep Multi Task and Meta-Learning: http://cs330.stanford.edu/
 
 
 ## Links
@@ -132,6 +143,10 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 19. IBM Mathematics of AI Group: https://researcher.watson.ibm.com/researcher/view_group.php?id=9860
 20. Deep Learning for Physics: https://dl4physicalsciences.github.io/
 21. Geometric Deep Learning: http://geometricdeeplearning.com/
+22. Cornell Virtual Workshop on Programming languages and frameworks: https://cvw.cac.cornell.edu/topics
+23. Metacacdemy Dynamical Systems for Machine Learning: https://metacademy.org/roadmaps/DanielIm/dsml
+24. Metacacdemy Bayesian Machine Learning: https://metacademy.org/roadmaps/rgrosse/bayesian_machine_learning
+25. Metacacdemy Differential Geometry for Machine Learning: https://metacademy.org/roadmaps/rgrosse/dgml
 
 ## Softwares and Libraries/Frameworks
 
@@ -153,6 +168,10 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 16. DLib C++ Library for Machine Learning: http://dlib.net/
 17. WebSocket API: https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
 18. Box2D - A 2D physics engine for games in C++: https://box2d.org/documentation/index.html
+19. Carla simulator for autonomous driving: http://carla.org/
+20. CVXPY - Differentiable Convex Optimization Layers: https://locuslab.github.io/2019-10-28-cvxpylayers/
+21. NeuroML: Models for Computational Neuroscience: https://neuroml.org/
+22. NeuroTools: Computational neuroscience framework: https://pythonhosted.org/NeuroTools/
 
 
 
