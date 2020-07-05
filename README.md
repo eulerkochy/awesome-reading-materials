@@ -77,6 +77,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 16. Real, protected and long mode in Assembly: https://www.codeproject.com/Articles/45788/The-Real-Protected-Long-mode-assembly-tutorial-for
 17. Intel Assembly Manual guide: https://www.codeproject.com/Articles/1273844/The-Intel-Assembly-Manual-3
 18. Intel 8085 hardware internals and register electronic structure: https://www.righto.com/2013/03/register-file-8085.html
+19. Zoom in to neural circuits: https://distill.pub/2020/circuits/zoom-in/
 
 ## Repositories
 
@@ -91,6 +92,9 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 9. Deep Learning Papers Reading Roadmap: https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 10. Lucid Framework for Neural Network Interpretability: https://github.com/tensorflow/lucid
 11. Sktime: Machine Learning with Time series: https://github.com/alan-turing-institute/sktime
+12. Machine Learning Tokyo: https://github.com/Machine-Learning-Tokyo
+13. System Design Primer: https://github.com/donnemartin/system-design-primer
+14. Apollo-11 code, which took humanity to the moon: https://github.com/chrislgarry/Apollo-11
 
 ## Courses
 
@@ -119,6 +123,8 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 23. CMU Convex Optimization: http://www.cs.cmu.edu/~aarti/Class/10725_Fall17/
 24. CMU Advanced Machine Learning Theory and Methods: http://www.cs.cmu.edu/~pradeepr/716/
 25. Stanford Deep Multi Task and Meta-Learning: http://cs330.stanford.edu/
+26. MIT Missing Semester of CS Education: https://missing.csail.mit.edu/
+27. Princeton Introduction to CS: https://www.cs.princeton.edu/courses/archive/spring20/cos126/syllabus.html
 
 ## Links
 
@@ -147,6 +153,11 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 23. Metacacdemy Dynamical Systems for Machine Learning: https://metacademy.org/roadmaps/DanielIm/dsml
 24. Metacacdemy Bayesian Machine Learning: https://metacademy.org/roadmaps/rgrosse/bayesian_machine_learning
 25. Metacacdemy Differential Geometry for Machine Learning: https://metacademy.org/roadmaps/rgrosse/dgml
+26. Massive List of Free Courses from Coursera: https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/
+27. Systems Programming Blog: https://gpfault.net/
+28. Deep Differential equations ICLR: http://iclr2020deepdiffeq.rice.edu/
+29. GPU Architecture Resources: https://interplayoflight.wordpress.com/2020/05/09/gpu-architecture-resource
+30. List of upcoming seminars and talks in CS and basic sciences: https://researchseminars.org/talks
 
 ## Softwares and Libraries/Frameworks
 
@@ -156,8 +167,8 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 4. Intel® Math Kernel Library for Deep Learning Networks: https://software.intel.com/content/www/us/en/develop/articles/intel-mkl-dnn-part-1-library-overview-and-installation.html
 5. Google Cloud Storage FUSE, written in Golang: https://cloud.google.com/storage/docs/gcs-fuse
 6. Intel Thread Building Blocks for parallel and heterogeneous computing: https://software.intel.com/content/www/us/en/develop/tools/threading-building-blocks.html
-7. Turing.jl: Bayesian Inference for Probabilistic Programming: https://turing.ml/dev/
-8. Gen.jl: A general purpose Probabilistic Programming Language: https://www.gen.dev/
+7. Turing.jl - Bayesian Inference for Probabilistic Programming: https://turing.ml/dev/
+8. Gen.jl - A general purpose Probabilistic Programming Language: https://www.gen.dev/
 9. Thermodynamic Analytics Toolkit (TATi), Alan Turing Institute: https://alan-turing-institute.github.io/ThermodynamicAnalyticsToolkit/
 10. Stan - A Probabilistic Programming Framework: https://mc-stan.org
 11. ArviZ - Exploratory analysis of Bayesian models: https://arviz-devs.github.io/arviz/
@@ -170,11 +181,12 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 18. Box2D - A 2D physics engine for games in C++: https://box2d.org/documentation/index.html
 19. Carla simulator for autonomous driving: http://carla.org/
 20. CVXPY - Differentiable Convex Optimization Layers: https://locuslab.github.io/2019-10-28-cvxpylayers/
-21. NeuroML: Models for Computational Neuroscience: https://neuroml.org/
-22. NeuroTools: Computational neuroscience framework: https://pythonhosted.org/NeuroTools/
-23. Stumpy: Time series motif and data framework: https://stumpy.readthedocs.io/en/latest/index.html
-
-
+21. NeuroML - Models for Computational Neuroscience: https://neuroml.org/
+22. NeuroTools - Computational neuroscience framework: https://pythonhosted.org/NeuroTools/
+23. Stumpy - Time series motif and data framework: https://stumpy.readthedocs.io/en/latest/index.html
+24. Affinity - Deep Learning for Molecular Geometry: https://affinity.mit.edu/
+25. Ray- Framework for running distributed applications: https://docs.ray.io/en/latest/index.html
+26. Magnum engine - Graphics engine in C++: https://magnum.graphics/
 
 
 
