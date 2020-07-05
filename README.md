@@ -45,7 +45,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 5. C Heap internals: https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/
 6. Discovering Symbolic Models from Deep Learning with Inductive Biases (Includes discovery of symbolic mathematical equations from experimental data, and application to dark matter physics): https://astroautomata.com/paper/symbolic-neural-nets/
 7. GPU Gems 3: N-body simulations in CUDA: https://developer.nvidia.com/gpugems/gpugems3/part-v-physics-simulation/chapter-31-fast-n-body-simulation-cuda
-8. AMD Whitepaper on Nested Paging
+8. AMD Whitepaper on Nested Paging: http://developer.amd.com/wordpress/media/2012/10/NPT-WP-1%201-final-TM.pdf
 
 ## Repositories
 
@@ -84,4 +84,6 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 4. Intel® Math Kernel Library for Deep Learning Networks: https://software.intel.com/content/www/us/en/develop/articles/intel-mkl-dnn-part-1-library-overview-and-installation.html
 5. Google Cloud Storage FUSE, written in Golang: https://cloud.google.com/storage/docs/gcs-fuse
 6. Intel Thread Building Blocks for parallel and heterogeneous computing: https://software.intel.com/content/www/us/en/develop/tools/threading-building-blocks.html
+7. Turing.jl: Bayesian Inference for Probabilistic Programming: https://turing.ml/dev/
+8. Gen.jl: A general purpose Probabilistic Programming Language: https://www.gen.dev/
 
