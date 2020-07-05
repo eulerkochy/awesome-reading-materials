@@ -8,11 +8,27 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 3. Steven Shreve: Stoachastic Calculus for Finance Volumes 1 & 2
 4. JD Hamilton: Time Series Analysis
 5. Simo Sarrka: Bayesian Filtering and Smoothing
+6. Dani Gamerman: Markov Chain Monte Carlo: Stochastic Simulation for Bayesian Inference
+7. Understanding the Linux Kernel O'Reilly
+8. Understanding Linux Networking Internals O'Reilly
+9. Linux Device Drivers O'Reilly
+10. Martin Baxter: Financial Calculus: An Introduction to Derivative Pricing
+11. Rasumssesn, Williams: Gaussian Processes for Machine Learning
+12. Michael Kerrisk: The Linux Programming Interface
+13. Igor Tulchinsky: Finding Alphas: A Quantitative Approach to Trading Algorithms
+14. Simo Sarrka: Applied Stochastic Differential Equations
 
 ## Papers
 
 1. Latent ODEs for Irregularly-Sampled Time Series: https://arxiv.org/abs/1907.03907
-2. A Framework for Reinforcement Learning and Planning: https://arxiv.org/pdf/2006.15009
+2. A Framework for Reinforcement Learning and Planning: https://arxiv.org/abs/2006.15009
+3. Synthetic Data for Deep Learning: https://arxiv.org/abs/1909.11512
+4. Variational Inference with Normalizing Flows: https://arxiv.org/abs/1505.05770
+5. Neural Manifold Ordinary Differential Equations: https://arxiv.org/abs/2006.10254
+6. Bayesian Learning via Stochastic Gradient Langevin Dynamics
+7. Reverse-Engineering Deep ReLU Networks: https://arxiv.org/abs/1910.00744
+8. A Neural Scaling Law from the Dimension of the Data Manifold: https://arxiv.org/abs/2004.10802
+
 
 ## Articles
 
@@ -60,4 +76,5 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 3. Intel® Data Analytics Acceleration Library: https://software.intel.com/content/www/us/en/develop/tools/data-analytics-acceleration-library
 4. Intel® Math Kernel Library for Deep Learning Networks: https://software.intel.com/content/www/us/en/develop/articles/intel-mkl-dnn-part-1-library-overview-and-installation.html
 5. Google Cloud Storage FUSE, written in Golang: https://cloud.google.com/storage/docs/gcs-fuse
+6. Intel Thread Building Blocks for parallel and heterogeneous computing: https://software.intel.com/content/www/us/en/develop/tools/threading-building-blocks.html
 
