@@ -25,7 +25,6 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 20. Dan Bader: Python Tricks - A Buffet of Awesome Python Features
 21. Steve Scargall: Persistent Memory Programming
 
-
 ## Papers
 
 1. Latent ODEs for Irregularly-Sampled Time Series: https://arxiv.org/abs/1907.03907
@@ -77,6 +76,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 15. Google AI: DeepDream: https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html
 16. Real, protected and long mode in Assembly: https://www.codeproject.com/Articles/45788/The-Real-Protected-Long-mode-assembly-tutorial-for
 17. Intel Assembly Manual guide: https://www.codeproject.com/Articles/1273844/The-Intel-Assembly-Manual-3
+18. Intel 8085 hardware internals and register electronic structure: https://www.righto.com/2013/03/register-file-8085.html
 
 ## Repositories
 
@@ -90,6 +90,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 8. Reinforcement Learning for Algorithmic Trading: https://github.com/tensortrade-org/tensortrade
 9. Deep Learning Papers Reading Roadmap: https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 10. Lucid Framework for Neural Network Interpretability: https://github.com/tensorflow/lucid
+11. Sktime: Machine Learning with Time series: https://github.com/alan-turing-institute/sktime
 
 ## Courses
 
@@ -118,7 +119,6 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 23. CMU Convex Optimization: http://www.cs.cmu.edu/~aarti/Class/10725_Fall17/
 24. CMU Advanced Machine Learning Theory and Methods: http://www.cs.cmu.edu/~pradeepr/716/
 25. Stanford Deep Multi Task and Meta-Learning: http://cs330.stanford.edu/
-
 
 ## Links
 
@@ -172,6 +172,9 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 20. CVXPY - Differentiable Convex Optimization Layers: https://locuslab.github.io/2019-10-28-cvxpylayers/
 21. NeuroML: Models for Computational Neuroscience: https://neuroml.org/
 22. NeuroTools: Computational neuroscience framework: https://pythonhosted.org/NeuroTools/
+23. Stumpy: Time series motif and data framework: https://stumpy.readthedocs.io/en/latest/index.html
+
+
 
 
 
