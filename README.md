@@ -24,6 +24,21 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 19. Andrzej Chrzȩszczyk: Matrix computations on the GPU: CUBLAS, CUSOLVER and MAGMA by example
 20. Dan Bader: Python Tricks - A Buffet of Awesome Python Features
 21. Steve Scargall: Persistent Memory Programming
+22. Wulfram Gerstner: Neuronal Dynamics: https://neuronaldynamics.epfl.ch/
+23. Roman Vershynin: High Dimensional Probability
+24. Steve Merschner: Fundamentals of Computer Graphics
+25. Simon Prince: Computer vision: models, learning and inference
+26. Feng-Yu Wang: Analysis of Diffusion Processes on Riemannian Manifolds
+27. Peter Kloeden: Numerical solution of SDEs
+28. Nobuyuki Ikeda: SDEs and Diffusion Processes
+29. Shunichi Amari: Methods of Information Geometry
+30. Allen Downy: The Little Book of Semaphores
+31. Maurice Bach: The Design of the UNIX Operating System
+32. David Kirk: Programming Massively parallel processors
+33. Natural Language Processing with PyTorch O'Reilly
+34. Stephen Boyd: Convex Optimization
+35. Duda, Hart, Stork: Pattern Classification
+
 
 ## Papers
 
@@ -38,7 +53,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 9. An Introduction to Deep Reinforcement Learning: https://arxiv.org/abs/1811.12560
 10. Continuous-discrete smoothing of diffusions: https://arxiv.org/abs/1712.03807
 11. Universal Differential Equations for Scientific Machine Learning: https://arxiv.org/abs/2001.04385
-12. Visualizing Higher-Layer Features of a Deep Network, Yoshua Bengio et.al
+12. Visualizing Higher-Layer Features of a Deep Network: Yoshua Bengio et.al
 13. Tensor Programs II: Neural Tangent Kernel for Any Architecture: https://arxiv.org/abs/2006.14548
 14. Mean Field Residual Networks: On the Edge of Chaos: https://arxiv.org/abs/1712.08969
 15. An Artificial Neuron Implemented on an Actual Quantum Processor: https://arxiv.org/abs/1811.02266
@@ -56,6 +71,33 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 27. Generative Modeling by Estimating Gradients of the Data Distribution: https://arxiv.org/abs/1907.05600
 28. Are All Layers Created Equal?: https://arxiv.org/abs/1902.01996
 29. Geometric deep learning: Going beyond Euclidean data: https://arxiv.org/abs/1611.08097
+30. A survey on Deep Learning Advances on Different 3D Data Representations: https://arxiv.org/abs/1808.01462
+31. Word2vec Parameter Learning Explained: https://arxiv.org/abs/1411.2738
+32. moDNN: Memory Optimal Deep Neural Network Training on Graphics Processing Units
+33. Machine Learning at Facebook: Understanding Inference at the Edge
+34. On Exact Computation with an Infinitely Wide Neural Net: https://arxiv.org/abs/1904.11955
+35. Mean-field Behaviour of Neural Tangent Kernel for Deep Neural Networks: https://arxiv.org/abs/1905.13654
+36. Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent: https://arxiv.org/abs/1902.06720
+37. Statistical Mechanics of Deep Learning: Annual Review of Condensed Matter Physics: Yasaman Bahri et.al
+38. Recurrent Neural Processes: Timon Willi, Jurgen Schmidhuber et.al
+39. Neural SDE - Information propagation through the lens of diffusion processes: Stefano Peluchetti et.al
+40. Deep Neural Networks in Computational Neuroscience: Tim Kietzmann et.al
+41. Understanding Deep Neural Networks with ReLu: Raman Arora et.al
+42. On the Learning Dynamics of Deep Neural Networks: https://arxiv.org/abs/1809.06848
+43. On the Spectral Bias of Neural Networks: https://arxiv.org/abs/1806.08734
+44. Riemannian metrics for neural networks I: Feedforward networks: https://arxiv.org/abs/1303.0818
+45. (First paper on Neural Networks): A logical calculus of the ideas immanent in nervous activity: Warren McCulloch and Walter Pitts
+46. Hybrid computing using a neural network with dynamic external memory: Alex Graves et.al, Nature
+47. Stochastic Modified Equations and Adaptive Stochastic Gradient Algorithms: Qianxiao Li et.al
+48. Natural Langevin Dynamics for Neural Networks: https://arxiv.org/abs/1712.01076
+49. On the Curved Geometry of Accelerated Optimization: Aaron Defazio Facebook AI Research
+50. The Variational Gaussian Process: Dustin Tran et.al
+51. Stochastic Gradient Langevin Dynamics that exploit Neural Network Structure: Zachary Nado et.al, Google Brain
+52. Stochastic Gradient Descent performs Variational Inference, converges to Limit Cycles for Deep Networks, Pratik Chaudhuri et.al
+53. Hybrid Monte Carlo (original paper intriducing Hamiltonian Monte Carlo): Simon Duane et.al
+54. Fluctuation Dissipation Relations for Stochastic Gradient Descent: Sho Yaida, Facebook AI Research
+55. Neural Machine Translation by Jointly Learning to Align and Translate: https://arxiv.org/abs/1409.0473
+
 
 ## Articles
 
