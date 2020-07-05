@@ -52,6 +52,11 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 22. Neural Stochastic Differential Equations: Deep Latent Gaussian Models in the Diffusion Limit:  https://arxiv.org/abs/1905.09883
 23. Towards an Integration of Deep Learning and Neuroscience: https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full
 24. Theoretical guarantees for sampling and inference in generative models with latent diffusions: https://arxiv.org/abs/1903.01608 
+25. Hamiltonian Descent Methods: https://arxiv.org/abs/1809.05042
+26. Only Bayes should learn a manifold: https://arxiv.org/abs/1806.04994
+27. Generative Modeling by Estimating Gradients of the Data Distribution: https://arxiv.org/abs/1907.05600
+28. Are All Layers Created Equal?: https://arxiv.org/abs/1902.01996
+29. Geometric deep learning: Going beyond Euclidean data: https://arxiv.org/abs/1611.08097
 
 ## Articles
 
@@ -68,6 +73,8 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 11. Deriving the Neural Tangent Kernel: https://brynhayder.github.io/jekyll/update/2019/04/02/neural-tangent-kernel.html
 12. The Unreasonable Effectiveness of RNNs: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 13. Mathematical Foundations of Neuroscience: https://blog.piekniewski.info/2018/09/03/mathematical-foundations-of-neuroscience/
+14. Bayesian Neural Networks Need Not Concentrate: https://jacobbuckman.com/2020-01-22-bayesian-neural-networks-need-not-concentrate/
+15. Google AI: DeepDream: https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html
 
 ## Repositories
 
@@ -99,6 +106,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 14. UWaterloo Distributed Computer Systems: https://cs.uwaterloo.ca/~rtholmes/teaching/2011winter/cs436/index.html
 15. UC Berkeley Deep Reinforcement Learning: http://rail.eecs.berkeley.edu/deeprlcourse/
 16. Stanford Computing with Physical Objects: Algorithms for Shape and Motion: http://graphics.stanford.edu/courses/cs164-09-spring/
+17. UC Berkeley Deep Unsupervised Learning: https://sites.google.com/view/berkeley-cs294-158-sp19/home
 
 
 ## Links
@@ -123,6 +131,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 18. Physics for Deep Learning: https://sites.google.com/view/icml2019phys4dl/schedule
 19. IBM Mathematics of AI Group: https://researcher.watson.ibm.com/researcher/view_group.php?id=9860
 20. Deep Learning for Physics: https://dl4physicalsciences.github.io/
+21. Geometric Deep Learning: http://geometricdeeplearning.com/
 
 ## Softwares and Libraries/Frameworks
 
@@ -143,6 +152,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 15. Kaolin - A framework for 3D Computer Vision: https://kaolin.readthedocs.io/en/latest/
 16. DLib C++ Library for Machine Learning: http://dlib.net/
 17. WebSocket API: https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
+18. Box2D - A 2D physics engine for games in C++: https://box2d.org/documentation/index.html
 
 
 
