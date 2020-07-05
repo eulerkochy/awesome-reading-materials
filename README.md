@@ -22,6 +22,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 17. Thomas Sargent: Quantitative Economics with Python
 18. Peter Salzman: The Linux Kernel Module Programming Guide
 19. Andrzej Chrzȩszczyk: Matrix computations on the GPU: CUBLAS, CUSOLVER and MAGMA by example
+20. Dan Bader: Python Tricks - A Buffet of Awesome Python Features
 
 
 ## Papers
