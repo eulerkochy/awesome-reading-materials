@@ -20,3 +20,8 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 
 1.
 2.
+
+## Courses
+
+1.
+2.
