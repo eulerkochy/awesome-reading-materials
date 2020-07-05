@@ -19,6 +19,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 14. Simo Sarrka: Applied Stochastic Differential Equations
 15. Jason Sanders: CUDA by Example: Introduction to GPGPU Programming
 16. John Cheng: Professional CUDA C Programming
+17. Dan Bader: Python Tricks - A Buffet of Awesome Python Features
 
 ## Papers
 
