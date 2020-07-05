@@ -41,7 +41,8 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 12. Visualizing Higher-Layer Features of a Deep Network, Yoshua Bengio et.al
 13. Tensor Programs II: Neural Tangent Kernel for Any Architecture: https://arxiv.org/abs/2006.14548
 14. Mean Field Residual Networks: On the Edge of Chaos: https://arxiv.org/abs/1712.08969
-
+15. An Artificial Neuron Implemented on an Actual Quantum Processor: https://arxiv.org/abs/1811.02266
+16. A Survey of Neuromorphic Computing and NeuralNetworks in Hardware: https://arxiv.org/abs/1705.06963
 
 ## Articles
 
@@ -99,5 +100,6 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 10. Stan - A Probabilistic Programming Framework: https://mc-stan.org
 11. ArviZ - Exploratory analysis of Bayesian models: https://arviz-devs.github.io/arviz/
 12. PyMC3 - Probabilistic Programming in Python: https://docs.pymc.io/
+13. Uber Pyro - A Probabilistic Programming Language: https://eng.uber.com/pyro/
 
 
