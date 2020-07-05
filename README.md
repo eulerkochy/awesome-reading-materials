@@ -55,6 +55,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 4. Neural Tangent Kernel: https://github.com/google/neural-tangents
 5. N-body simulations, including Dark Matter simulations: https://github.com/franciscovillaescusa/Quijote-simulations
 6. A user-space file system for interacting with Google Cloud Storage, written in Go FUSE: https://github.com/GoogleCloudPlatform/gcsfuse
+7. Introduction to Flask using Test Driven Development: https://github.com/mjhea0/flaskr-tdd
 
 ## Courses
 
@@ -65,6 +66,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 5. MIT Statistical Learning Theory: https://www.mit.edu/~9.520/fall19/
 6. CMU Statistical Machine Learning: http://www.stat.cmu.edu/~ryantibs/statml/
 7. MIT Topics in Mathematics with Applications in Finance: https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/lecture-notes/
+8. CalTech GPU Programming: http://courses.cms.caltech.edu/cs179/
 
 ## Links
 
@@ -86,4 +88,9 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 6. Intel Thread Building Blocks for parallel and heterogeneous computing: https://software.intel.com/content/www/us/en/develop/tools/threading-building-blocks.html
 7. Turing.jl: Bayesian Inference for Probabilistic Programming: https://turing.ml/dev/
 8. Gen.jl: A general purpose Probabilistic Programming Language: https://www.gen.dev/
+9. Thermodynamic Analytics Toolkit (TATi), Alan Turing Institute: https://alan-turing-institute.github.io/ThermodynamicAnalyticsToolkit/
+10. Stan - A Probabilistic Programming Framework: https://mc-stan.org
+11. ArviZ - Exploratory analysis of Bayesian models: https://arviz-devs.github.io/arviz/
+12. PyMC3 - Probabilistic Programming in Python: https://docs.pymc.io/
+
 
