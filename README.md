@@ -19,7 +19,10 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 14. Simo Sarrka: Applied Stochastic Differential Equations
 15. Jason Sanders: CUDA by Example: Introduction to GPGPU Programming
 16. John Cheng: Professional CUDA C Programming
-17. Dan Bader: Python Tricks - A Buffet of Awesome Python Features
+17. Thomas Sargent: Quantitative Economics with Python
+18. Peter Salzman: The Linux Kernel Module Programming Guide
+19. Andrzej Chrzȩszczyk: Matrix computations on the GPU: CUBLAS, CUSOLVER and MAGMA by example
+
 
 ## Papers
 
@@ -35,6 +38,8 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 10. Continuous-discrete smoothing of diffusions: https://arxiv.org/abs/1712.03807
 11. Universal Differential Equations for Scientific Machine Learning: https://arxiv.org/abs/2001.04385
 12. Visualizing Higher-Layer Features of a Deep Network, Yoshua Bengio et.al
+13. Tensor Programs II: Neural Tangent Kernel for Any Architecture: https://arxiv.org/abs/2006.14548
+14. Mean Field Residual Networks: On the Edge of Chaos: https://arxiv.org/abs/1712.08969
 
 
 ## Articles
