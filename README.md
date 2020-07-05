@@ -13,7 +13,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 
 ## Articles
 
-1.
+1. Internals of the Python Compiler cpython: https://realpython.com/cpython-source-code-guide/
 2.
 
 ## Repositories
