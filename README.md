@@ -17,6 +17,8 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 12. Michael Kerrisk: The Linux Programming Interface
 13. Igor Tulchinsky: Finding Alphas: A Quantitative Approach to Trading Algorithms
 14. Simo Sarrka: Applied Stochastic Differential Equations
+15. Jason Sanders: CUDA by Example: Introduction to GPGPU Programming
+16. John Cheng: Professional CUDA C Programming
 
 ## Papers
 
@@ -25,9 +27,13 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 3. Synthetic Data for Deep Learning: https://arxiv.org/abs/1909.11512
 4. Variational Inference with Normalizing Flows: https://arxiv.org/abs/1505.05770
 5. Neural Manifold Ordinary Differential Equations: https://arxiv.org/abs/2006.10254
-6. Bayesian Learning via Stochastic Gradient Langevin Dynamics
+6. Bayesian Learning via Stochastic Gradient Langevin Dynamics, Max Welling et.al
 7. Reverse-Engineering Deep ReLU Networks: https://arxiv.org/abs/1910.00744
 8. A Neural Scaling Law from the Dimension of the Data Manifold: https://arxiv.org/abs/2004.10802
+9. An Introduction to Deep Reinforcement Learning: https://arxiv.org/abs/1811.12560
+10. Continuous-discrete smoothing of diffusions: https://arxiv.org/abs/1712.03807
+11. Universal Differential Equations for Scientific Machine Learning: https://arxiv.org/abs/2001.04385
+12. Visualizing Higher-Layer Features of a Deep Network, Yoshua Bengio et.al
 
 
 ## Articles
@@ -39,6 +45,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 5. C Heap internals: https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/
 6. Discovering Symbolic Models from Deep Learning with Inductive Biases (Includes discovery of symbolic mathematical equations from experimental data, and application to dark matter physics): https://astroautomata.com/paper/symbolic-neural-nets/
 7. GPU Gems 3: N-body simulations in CUDA: https://developer.nvidia.com/gpugems/gpugems3/part-v-physics-simulation/chapter-31-fast-n-body-simulation-cuda
+8. AMD Whitepaper on Nested Paging
 
 ## Repositories
 
