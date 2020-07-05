@@ -5,7 +5,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 
 1. JavaScript: The Definitive Guide O'Reilly
 2. JavaScript: The Good parts O'Reilly
-3. Steven Shreve: Stoachastic Calculus for Finance Volumes 1 & 2
+3. Steven Shreve: Stochastic Calculus for Finance Volumes 1 & 2
 4. JD Hamilton: Time Series Analysis
 5. Simo Sarrka: Bayesian Filtering and Smoothing
 6. Dani Gamerman: Markov Chain Monte Carlo: Stochastic Simulation for Bayesian Inference
@@ -23,6 +23,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 18. Peter Salzman: The Linux Kernel Module Programming Guide
 19. Andrzej Chrzȩszczyk: Matrix computations on the GPU: CUBLAS, CUSOLVER and MAGMA by example
 20. Dan Bader: Python Tricks - A Buffet of Awesome Python Features
+21. Steve Scargall: Persistent Memory Programming
 
 
 ## Papers
@@ -43,6 +44,14 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 14. Mean Field Residual Networks: On the Edge of Chaos: https://arxiv.org/abs/1712.08969
 15. An Artificial Neuron Implemented on an Actual Quantum Processor: https://arxiv.org/abs/1811.02266
 16. A Survey of Neuromorphic Computing and NeuralNetworks in Hardware: https://arxiv.org/abs/1705.06963
+17. A Conceptual Introduction to Markov ChainMonte Carlo Methods: https://arxiv.org/abs/1909.12313
+18. Scalable Gradients for Stochastic Differential Equations: https://arxiv.org/abs/2001.01328
+19. An Introduction to MCMC for Machine Learning: https://link.springer.com/content/pdf/10.1023/A:1020281327116.pdf
+20. PyQuil: A Practical Quantum Instruction Set Architecture: https://arxiv.org/abs/1608.03355
+21. Computational Neuroscience: Mathematical and Statistical Perspectives: https://users.ece.cmu.edu/~byronyu/papers/KassARS2018.pdf
+22. Neural Stochastic Differential Equations: Deep Latent Gaussian Models in the Diffusion Limit:  https://arxiv.org/abs/1905.09883
+23. Towards an Integration of Deep Learning and Neuroscience: https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full
+24. Theoretical guarantees for sampling and inference in generative models with latent diffusions: https://arxiv.org/abs/1903.01608 
 
 ## Articles
 
@@ -54,6 +63,11 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 6. Discovering Symbolic Models from Deep Learning with Inductive Biases (Includes discovery of symbolic mathematical equations from experimental data, and application to dark matter physics): https://astroautomata.com/paper/symbolic-neural-nets/
 7. GPU Gems 3: N-body simulations in CUDA: https://developer.nvidia.com/gpugems/gpugems3/part-v-physics-simulation/chapter-31-fast-n-body-simulation-cuda
 8. AMD Whitepaper on Nested Paging: http://developer.amd.com/wordpress/media/2012/10/NPT-WP-1%201-final-TM.pdf
+9. Neural 3D Mesh Renderer: http://hiroharu-kato.com/projects_en/neural_renderer.html
+10. Key trends from NeurIPS 2019: https://huyenchip.com/2019/12/18/key-trends-neurips-2019.html
+11. Deriving the Neural Tangent Kernel: https://brynhayder.github.io/jekyll/update/2019/04/02/neural-tangent-kernel.html
+12. The Unreasonable Effectiveness of RNNs: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+13. Mathematical Foundations of Neuroscience: https://blog.piekniewski.info/2018/09/03/mathematical-foundations-of-neuroscience/
 
 ## Repositories
 
@@ -64,6 +78,8 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 5. N-body simulations, including Dark Matter simulations: https://github.com/franciscovillaescusa/Quijote-simulations
 6. A user-space file system for interacting with Google Cloud Storage, written in Go FUSE: https://github.com/GoogleCloudPlatform/gcsfuse
 7. Introduction to Flask using Test Driven Development: https://github.com/mjhea0/flaskr-tdd
+8. Reinforcement Learning for Algorithmic Trading: https://github.com/tensortrade-org/tensortrade
+9. Deep Learning Papers Reading Roadmap: https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 
 ## Courses
 
@@ -75,6 +91,15 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 6. CMU Statistical Machine Learning: http://www.stat.cmu.edu/~ryantibs/statml/
 7. MIT Topics in Mathematics with Applications in Finance: https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/lecture-notes/
 8. CalTech GPU Programming: http://courses.cms.caltech.edu/cs179/
+9. CMU Deep Reinforcement Learning: https://cmudeeprl.github.io/703website/
+10. UC Berkeley Computer Security: https://cs161.org/
+11. Aalto University Nonlinear Dynamics and Chaos: https://mycourses.aalto.fi/course/view.php?id=24404&section=1
+12. Aalto University Machine Learning Advanced Probabilistic Methods: https://mycourses.aalto.fi/course/view.php?id=24365&section=1
+13. Aalto University Kernel Methods in Machine Learning: https://mycourses.aalto.fi/course/view.php?id=24366
+14. UWaterloo Distributed Computer Systems: https://cs.uwaterloo.ca/~rtholmes/teaching/2011winter/cs436/index.html
+15. UC Berkeley Deep Reinforcement Learning: http://rail.eecs.berkeley.edu/deeprlcourse/
+16. Stanford Computing with Physical Objects: Algorithms for Shape and Motion: http://graphics.stanford.edu/courses/cs164-09-spring/
+
 
 ## Links
 
@@ -85,6 +110,19 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 5. Econometrics Books: http://www.econometricsbooks.com/
 6. Hugging Face – On a mission to solve NLP: https://huggingface.co/
 7. MATLAB Computational Finance: https://in.mathworks.com/solutions/finance-and-risk-management.html
+8. Key papers in Deep RL: https://spinningup.openai.com/en/latest/spinningup/keypapers.html
+9. AI driven Drug discovery: https://www.deepgenomics.com/
+10. Montreal.AI: AI for All Cheatsheet: http://www.montreal.ai/ai4all.pdf
+11. AI generated lyrics: https://theselyricsdonotexist.com/
+12. Free Programming ebooks: https://goalkicker.com/
+13. Deep RL Bootcamp: https://sites.google.com/view/deep-rl-bootcamp/lectures
+14. Bayesian Deep Learning NIPS 2019: http://bayesiandeeplearning.org/
+15. UCSD Mathematical Neuroscience Lab: http://www.silva.ucsd.edu/home-1
+16. UCSD Centre for Engineered Natural Intelligence: http://ceni.ucsd.edu/
+17. Institute for Pure and Applied Mathematics: Courses on Theoretical Deep Learning: http://www.ipam.ucla.edu/
+18. Physics for Deep Learning: https://sites.google.com/view/icml2019phys4dl/schedule
+19. IBM Mathematics of AI Group: https://researcher.watson.ibm.com/researcher/view_group.php?id=9860
+20. Deep Learning for Physics: https://dl4physicalsciences.github.io/
 
 ## Softwares and Libraries/Frameworks
 
@@ -101,5 +139,10 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 11. ArviZ - Exploratory analysis of Bayesian models: https://arviz-devs.github.io/arviz/
 12. PyMC3 - Probabilistic Programming in Python: https://docs.pymc.io/
 13. Uber Pyro - A Probabilistic Programming Language: https://eng.uber.com/pyro/
+14. PyTorch 3D for 3D Deep Learning: https://pytorch3d.org/
+15. Kaolin - A framework for 3D Computer Vision: https://kaolin.readthedocs.io/en/latest/
+16. DLib C++ Library for Machine Learning: http://dlib.net/
+17. WebSocket API: https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
+
 
 
