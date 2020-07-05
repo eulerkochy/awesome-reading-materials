@@ -18,6 +18,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 
 1. Internals of the Python Compiler cpython: https://realpython.com/cpython-source-code-guide/
 2. Original article mentioning stack buffer overflows, a technique used in malicious program execution: http://phrack.org/issues/49/14.html#article
+3. Linux Internals Descriptions: https://0xax.gitbooks.io/linux-insides/
 
 ## Repositories
 
