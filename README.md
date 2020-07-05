@@ -8,7 +8,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 
 ## Papers
 
-1.
+1. Latent ODEs for Irregularly-Sampled Time Series: https://arxiv.org/abs/1907.03907
 2.
 
 ## Articles
@@ -19,7 +19,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 ## Repositories
 
 1. Beginner Reinforcement Learning Tutorial Notebook: https://github.com/eemlcommunity/PracticalSessions2020/blob/master/rl/EEML2020_RL_Tutorial.ipynb
-2.
+2. Neural Differential Equations: https://github.com/rtqichen/torchdiffeq
 
 ## Courses
 
