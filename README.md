@@ -4,7 +4,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 ## Books
 
 1. JavaScript: The Definitive Guide O'Reilly
-2. JavaScript: The Good parts
+2. JavaScript: The Good parts O'Reilly
 3. Steven Shreve: Stoachastic Calculus for Finance Volumes 1 & 2
 4. JD Hamilton: Time Series Analysis
 5. Simo Sarrka: Bayesian Filtering and Smoothing
