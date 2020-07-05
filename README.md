@@ -12,12 +12,12 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 ## Papers
 
 1. Latent ODEs for Irregularly-Sampled Time Series: https://arxiv.org/abs/1907.03907
-2.
+2. A Framework for Reinforcement Learning and Planning: https://arxiv.org/pdf/2006.15009
 
 ## Articles
 
 1. Internals of the Python Compiler cpython: https://realpython.com/cpython-source-code-guide/
-2.
+2. Original article mentioning stack buffer overflows, a technique used in malicious program execution: http://phrack.org/issues/49/14.html#article
 
 ## Repositories
 
@@ -31,3 +31,8 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 1. MIT Computer Networks: http://web.mit.edu/6.829/www/currentsemester/lectures_gen.html
 2. MIT Operating Systems: https://pdos.csail.mit.edu/6.828/2019/schedule.html
 3. MIT Distributed Systems: https://pdos.csail.mit.edu/6.824/schedule.html
+
+## Links
+
+1. CIFAR DLRL Summer Schools: https://dlrlsummerschool.ca/past-years/
+2. MLSS Summer Schools: http://mlss.cc/
