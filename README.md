@@ -137,6 +137,8 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 12. Machine Learning Tokyo: https://github.com/Machine-Learning-Tokyo
 13. System Design Primer: https://github.com/donnemartin/system-design-primer
 14. Apollo-11 code, which took humanity to the moon: https://github.com/chrislgarry/Apollo-11
+14. Awesome AI book list: https://github.com/zslucky/awesome-AI-books
+15. Jupyter Notebooks on Mathematical Finance: https://github.com/cantaro86/Financial-Models-Numerical-Methods
 
 ## Courses
 
