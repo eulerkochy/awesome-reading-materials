@@ -38,6 +38,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 33. Natural Language Processing with PyTorch O'Reilly
 34. Stephen Boyd: Convex Optimization
 35. Duda, Hart, Stork: Pattern Classification
+36. Deep Learning in PyTorch, from the core team of PyTorch
 
 
 ## Papers
