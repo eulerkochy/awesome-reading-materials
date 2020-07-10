@@ -98,6 +98,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 53. Hybrid Monte Carlo (original paper intriducing Hamiltonian Monte Carlo): Simon Duane et.al
 54. Fluctuation Dissipation Relations for Stochastic Gradient Descent: Sho Yaida, Facebook AI Research
 55. Neural Machine Translation by Jointly Learning to Align and Translate: https://arxiv.org/abs/1409.0473
+56. Stochastic Gradient Descent as Approximate Bayesian Inference: https://arxiv.org/abs/1704.04289
 
 
 ## Articles
