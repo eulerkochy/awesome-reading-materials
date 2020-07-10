@@ -139,6 +139,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 14. Apollo-11 code, which took humanity to the moon: https://github.com/chrislgarry/Apollo-11
 14. Awesome AI book list: https://github.com/zslucky/awesome-AI-books
 15. Jupyter Notebooks on Mathematical Finance: https://github.com/cantaro86/Financial-Models-Numerical-Methods
+16. Awesome Transfer Learning Reference: https://github.com/artix41/awesome-transfer-learning
 
 ## Courses
 
@@ -169,6 +170,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 25. Stanford Deep Multi Task and Meta-Learning: http://cs330.stanford.edu/
 26. MIT Missing Semester of CS Education: https://missing.csail.mit.edu/
 27. Princeton Introduction to CS: https://www.cs.princeton.edu/courses/archive/spring20/cos126/syllabus.html
+28. UPenn Wharton School of Business Financial Time Series: http://www-stat.wharton.upenn.edu/~steele/Courses/956/
 
 ## Links
 
@@ -231,6 +233,7 @@ A curated list of books and papers for reading. For knowledge in general. 'Cuz r
 24. Affinity - Deep Learning for Molecular Geometry: https://affinity.mit.edu/
 25. Ray- Framework for running distributed applications: https://docs.ray.io/en/latest/index.html
 26. Magnum engine - Graphics engine in C++: https://magnum.graphics/
+27. TA-Lib - Trading and Quantitative Finance Library: https://mrjbq7.github.io/ta-lib/
 
 
 
